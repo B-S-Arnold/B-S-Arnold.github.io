@@ -11497,7 +11497,14 @@ p {
   justify-content: space-around;
   padding: 20px;
 }
-
+/* HERE */
+/* @media (max-width: 600px) {
+  .myInfo::after{
+    content: "\a";
+    white-space: pre;
+  }
+  
+} */
 .spacer {
   margin: 70px;
 }
