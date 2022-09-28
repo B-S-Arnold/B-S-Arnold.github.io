@@ -627,6 +627,10 @@ progress {
   color: #6c757d;
 }
 
+/* .larger{
+  font-size: px;
+} */
+
 .container,
 .container-fluid,
 .container-xxl,
@@ -7078,6 +7082,10 @@ textarea.form-control-lg {
   gap: 3rem !important;
 }
 
+.skills{
+  align-items: flex-start !important;
+}
+
 .justify-content-start {
   justify-content: flex-start !important;
 }
@@ -11399,7 +11407,7 @@ p {
 .cta {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: rgba(230, 167, 86, 0.9);
+ 
 }
 .cta .cta-inner {
   position: relative;
@@ -11496,6 +11504,14 @@ p {
   display: flex;
   justify-content: space-around;
   padding: 20px;
+}
+.this {
+  display: flex;
+  justify-content: space-around;
+}
+
+.blue{
+  color:#055160
 }
 /* HERE */
 /* @media (max-width: 600px) {
