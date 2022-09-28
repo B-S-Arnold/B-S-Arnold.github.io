@@ -11505,13 +11505,22 @@ p {
   justify-content: space-around;
   padding: 20px;
 }
+
+.space-bet{
+  display: flex;
+  justify-content: space-between;
+}
 .this {
   display: flex;
   justify-content: space-around;
 }
 
 .blue{
-  color:#055160
+  color:royalblue;
+  text-decoration: none;
+}
+.blue:hover {
+  cursor: pointer;
 }
 /* HERE */
 /* @media (max-width: 600px) {
